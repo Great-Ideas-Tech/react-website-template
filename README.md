@@ -2,7 +2,7 @@
  A React and Next.js CMS Website Template is a pre-designed, customizable solution crafted using two powerful JavaScript frameworks: React.js and Next.js. This template is ideal for developers and businesses looking to build dynamic, high-performance content management system (CMS) websites with ease and efficiency.
 
 ##Key Features and Benefits
-###1. Server-Side Rendering and SEO Optimization:
+1. Server-Side Rendering and SEO Optimization:
 One of the standout features of using Next.js in the template is its server-side rendering (SSR) capability. Unlike traditional single-page applications (SPAs) built solely with React, which rely on client-side rendering, Next.js pre-renders pages on the server. This approach significantly improves SEO, as search engines can more easily index content, and users experience faster load times.
 
 ###2. Modular and Component-Based Architecture:

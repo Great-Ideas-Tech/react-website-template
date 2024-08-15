@@ -19,6 +19,39 @@ Next.js includes built-in features for optimizing website performance, such as i
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+### 6. Features
+ - Fixed navigation bar
+ - Preloader
+ - Search Bar
+ - Gradient
+ - Parallax Effect
+ - Animated Header Text
+ - Lightbox Photo Gallery
+ - Video Section
+ - Font Awesome Icons
+ - Appointment Form
+ - Social Media Icons
+ - On-hover Effect
+ - Pricing Table
+ - Contact Form
+ - Email Subscription Box
+ - Social Links on footer
+ - Back To Top Button
+ - Google Maps
+ - Device Responsive
+ - SEO Optimized
+ - Cross Browser Compatible
+
+### 7. Credits
+ - Animate.css
+ - Bootstrap v3.3.7
+ - FontAwesome
+ - Owl Carousel
+ - Hoverdir.js
+ - PrettyPhoto
+ - jQuery Vide
+ - Modernizr 
+
 ## Getting Started
 
 # LifeSure

@@ -19,7 +19,7 @@ export default function Footer() {
                         </h3>
                         {/* <Image src="/assets/img/logo.png" alt="Logo" width={50} height={50} /> */}
                       </a>
-                      <p className="theme-text mb-4">
+                      <p >
                         Dolor amet sit justo amet elitr clita ipsum elitr est.Lorem
                         ipsum dolor sit amet, consectetur adipiscing...
                       </p>
